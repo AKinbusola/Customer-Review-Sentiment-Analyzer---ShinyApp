@@ -6,7 +6,7 @@ An interactive **R Shiny web app** that analyzes customer reviews to identify an
 
 ##  Live Demo
 
- [Click here to launch the app](https://yourusername.shinyapps.io/your-app-name)  
+ https://akinbusola.shinyapps.io/sentiment_analysis/   
 *(Hosted on shinyapps.io — No installation needed)*
 
 ---
@@ -21,11 +21,11 @@ An interactive **R Shiny web app** that analyzes customer reviews to identify an
 ---
 
 
-## 🛠 Tools and Framework
+## 🛠 Tools and Frameworks
 
 | Category        | Tool/Package          |
 |-----------------|------------------------|
-| Web App         | [`shiny`](https://shiny.posit.co/) |
+| Web App         | [`shiny`] |
 | Sentiment Analysis | `syuzhet`, `dplyr`         |
 | Text Cleaning   | `tm`                    |
 | Visualization   | `ggplot2`, `wordcloud2` |
